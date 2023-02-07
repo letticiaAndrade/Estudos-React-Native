@@ -7,5 +7,7 @@ Acompanhamento dos estudos de React Native usando EXPO.
 <li>Uso do JSX</li>
 <li>Componentes personalizados</li>
 <li>Propriedades/Props (Personaliza os componentes React)</li>
+<li>Estado (useState)</li>
+<li></li>
 <li></li>
 </ul>
